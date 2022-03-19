@@ -1,2 +1,2 @@
 # CS50X
-CS50 problem sets and labs
+My solutions to CS50 problem sets and labs
